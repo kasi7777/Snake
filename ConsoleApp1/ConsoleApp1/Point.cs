@@ -16,9 +16,9 @@ namespace Snake
         {
         }
 
-        public Point (int _x, int _y, char _sym)
+        public Point(int _x, int _y, char _sym)
         {
-            x = _x; 
+            x = _x;
             y = _y;
             sym = _sym;
         }
@@ -42,11 +42,11 @@ namespace Snake
             }
             else if (direction == Direction.UP)
             {
-                y = y + offset;
+                y = y - offset;
             }
             else if (direction == Direction.DOWN)
             {
-                y = y - offset;
+                y = y + offset;
             }
         }
 
@@ -54,6 +54,12 @@ namespace Snake
         {
             Console.SetCursorPosition(x, y);
             Console.Write(sym);
+        }
+
+        public void Clear()
+        {
+            sym = ' ';
+            Draw();
         }
 
         public override string ToString()

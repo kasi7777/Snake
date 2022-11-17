@@ -1,0 +1,15 @@
+C:\Users\user\Snake\еееееее\еееееее\bin\Debug\net6.0\еееееее.exe
+C:\Users\user\Snake\еееееее\еееееее\bin\Debug\net6.0\еееееее.deps.json
+C:\Users\user\Snake\еееееее\еееееее\bin\Debug\net6.0\еееееее.runtimeconfig.json
+C:\Users\user\Snake\еееееее\еееееее\bin\Debug\net6.0\еееееее.dll
+C:\Users\user\Snake\еееееее\еееееее\bin\Debug\net6.0\еееееее.pdb
+C:\Users\user\Snake\еееееее\еееееее\obj\Debug\net6.0\еееееее.csproj.AssemblyReference.cache
+C:\Users\user\Snake\еееееее\еееееее\obj\Debug\net6.0\еееееее.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Snake\еееееее\еееееее\obj\Debug\net6.0\еееееее.AssemblyInfoInputs.cache
+C:\Users\user\Snake\еееееее\еееееее\obj\Debug\net6.0\еееееее.AssemblyInfo.cs
+C:\Users\user\Snake\еееееее\еееееее\obj\Debug\net6.0\еееееее.csproj.CoreCompileInputs.cache
+C:\Users\user\Snake\еееееее\еееееее\obj\Debug\net6.0\еееееее.dll
+C:\Users\user\Snake\еееееее\еееееее\obj\Debug\net6.0\refint\еееееее.dll
+C:\Users\user\Snake\еееееее\еееееее\obj\Debug\net6.0\еееееее.pdb
+C:\Users\user\Snake\еееееее\еееееее\obj\Debug\net6.0\еееееее.genruntimeconfig.cache
+C:\Users\user\Snake\еееееее\еееееее\obj\Debug\net6.0\ref\еееееее.dll
